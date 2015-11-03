@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="PointView">
+        <attr name="upsideDown" format="boolean" />
+        <attr name="bar" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="PointView_lol"></declare-styleable>
+</resources>

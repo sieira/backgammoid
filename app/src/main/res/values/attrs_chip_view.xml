@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="ChipView">
+        <attr name="chip_owner" format="enum">
+            <enum name="p1" value="0" />
+            <enum name="p2" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

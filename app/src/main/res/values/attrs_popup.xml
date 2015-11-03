@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="Popup">
+        <attr name="string" format="string" />
+        <attr name="image" format="color|reference" />
+    </declare-styleable>
+</resources>
